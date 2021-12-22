@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>The organics</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css">
+</head>
+<body>
+<header>
+	<h2>The Organics</h2>
+</header>
+
+<nav>
+	<li><a href="">Home</a></li>
+	<li><a href="">Products</a></li>
+	<li><a href="">Contacts</a></li>
+	<li><a href="">About us<a/></li>
+</nav>
+
+<aside id="left">
+
+</aside>
+
+<section>
+	
+		<h2>WELCOME</h2>
+		<hr />
+		<p>This is the organics website</p>
+		<p>Browse through to see what we offer</p>
+</section>
+		
+</body>
+
+<footer>
+	@Copyright P.Mokonedesigns 2021
+</footer>
+
+</html>
